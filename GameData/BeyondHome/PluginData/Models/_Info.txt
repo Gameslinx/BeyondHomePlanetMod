@@ -1,0 +1,2 @@
+ALL models within this folder were created by Gameslinx and the mod licence applies to these files too.
+These files were created in Blender, which is a free to use program.

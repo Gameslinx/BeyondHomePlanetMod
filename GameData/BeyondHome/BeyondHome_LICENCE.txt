@@ -1,0 +1,5 @@
+Beyond Home is a modification of Kerbal Space Program consisting of textures and configuration files.
+Content in the BeyondHome folder that is not elsewhere mentioned in this file is licenced under All Rights Reserved.
+
+Credits:
+ - "BeyondHome/Skybox" - Adapted from EVE Online environmental texture(s)
