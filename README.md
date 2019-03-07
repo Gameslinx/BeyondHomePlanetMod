@@ -31,3 +31,5 @@ THESE INSTRUCTIONS ARE FOR KERBAL SPACE PROGRAM 1.6.1. FOR 1.6.0 AND BELOW, DO N
   
   
 9 - Launch the game and make a new save! I hope you enjoy playing Beyond Home.
+
+BEYOND HOME IS LICENCED AS ALL RIGHTS RESERVED.
