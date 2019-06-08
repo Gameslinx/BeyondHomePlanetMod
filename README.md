@@ -3,6 +3,8 @@ Installation instructions for Beyond Home:
 
 THESE INSTRUCTIONS ARE FOR KERBAL SPACE PROGRAM 1.6.1. FOR 1.6.0 AND BELOW, DO NOT USE THE BELOW LINKS - DOWNLOAD THE CORRECT VERSION MANUALLY
 
+WHEN UPDATING BEYOND HOME, DELETE YOUR SETTINGS.CFG OTHERWISE YOU WILL MISS OUT ON THE PERFORMANCE OPTIMIZATION 
+
 1 - Drag and drop the "BeyondHome" folder to your "KerbalSpaceProgram/GameData" directory.
 
 2 - Download and install Kopernicus - https://github.com/Kopernicus/Kopernicus/releases/download/release-1.6.1-2/Kopernicus-1.6.1-2.zip
