@@ -7,13 +7,13 @@ WHEN UPDATING BEYOND HOME, DELETE YOUR SETTINGS.CFG OTHERWISE YOU WILL MISS OUT 
 
 1 - Drag and drop the "BeyondHome" folder to your "KerbalSpaceProgram/GameData" directory.
 
-2 - Download and install Kopernicus - https://github.com/Kopernicus/Kopernicus/releases/download/release-1.6.1-2/Kopernicus-1.6.1-2.zip
+2 - Download and install Kopernicus - https://github.com/Kopernicus/Kopernicus/releases/download/release-1.7.3-1/Kopernicus-1.7.3-1.zip
 
-3 - Download and install Scatterer - https://github.com/LGhassen/Scatterer/releases/download/0.0336/scatterer0.0336.zip
+3 - Download and install Scatterer - https://github.com/LGhassen/Scatterer/releases/download/0.052/Scatterer0.052.zip
 
 4 - Download and install EVE - https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.4.2-2/EnvironmentalVisualEnhancements-1.4.2.2.zip
 
-5 - Download and install Kerbal Konstructs - https://github.com/GER-Space/Kerbal-Konstructs/releases/download/1.4.5.60/Kerbal-Konstructs-1.4.5.60.zip
+5 - Download and install Kerbal Konstructs - https://github.com/GER-Space/Kerbal-Konstructs/releases/download/1.7.0.3/Kerbal-Konstructs-1.7.0.3.zip
 
 6 - Download and install Sigma Replacements - Skybox - https://github.com/Sigma88/Sigma-Replacements/releases/download/B_v0.4.0/Sigma-Replacements_SkyBox.v0.4.0.zip
 
