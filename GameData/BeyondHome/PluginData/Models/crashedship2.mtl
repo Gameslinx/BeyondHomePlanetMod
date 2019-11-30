@@ -1,0 +1,13 @@
+# Blender MTL File: 'CrashedShipIntact but not 2.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 343.933892
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.081818 0.081818 0.081818
+Ke 0.0 0.0 0.0
+Ni 23.049999
+d 0.987879
+illum 9
+map_Kd C:\\Users\\Casper\\Pictures\\hull33333.png
