@@ -1,4 +1,17 @@
 # BeyondHome
+Beyond Home (BH) is the final chapter in the story of Kerbalkind. It can be played independently of Before Kerbin and After Kerbin.
+
+Billions of years after Kerbol exploded, a few colony vessels survived and found a new system to inhabit. The *Tempus System*. The *Tempus System* is a binary star system, slightly larger than the *Kerbol System*. The two stars *Destiny* and *Fate* orbit each other, almost like a slow dance. These stars are the heart of this expansive system.
+
+The Kerbals have begun the colonization of two celestial bodies: *Rhode*, the home planet, and its moon *Lua*. *Rhode*'s gravity is slightly less than Kerbin's. Its atmosphere is slightly thinner. It's a lot more modest than what the Kerbals were used to billions of years ago, however it is still a beauty to marvel at. Your task is to explore the *Tempus System* and uncover its secrets.
+
+Beyond Home is a planet mod for Kerbal Space Program that raises the bar by achieving many things once thought impossible. Each planet has custom surface features that the player can explore. These can range from simple rocks to vast structures and crashed starships. Each planet has had at least a week (or more) of time dedicated to making it perfect for the player to explore. Beyond Home may sound easy, but leaving the home planet is no longer the challenge. The journey is what counts - especially what lies at the end of it. Your focus will not be learning how to fly, it will be putting those skills to the test in wild, unique environments never seen before.
+
+# World-Firsts
+Beyond Home is the first planet mod to feature a fully functional binary star system at its core. Not only this, but entire structures can be procedurally generated on each planet - yes, you can land on those floating islands. Beyond Home comes with its own visual suite, meaning you can finally bring out the most performance you possibly can with one of the most optimized planet mods in the community. As well as this, Beyond Home offers the ability to collect bonus science rewards from various biomes across every planet - you will know where the challenge lies.
+
+
+
 Installation instructions for Beyond Home:
 
 THESE INSTRUCTIONS ARE FOR KERBAL SPACE PROGRAM 1.6.1. FOR 1.6.0 AND BELOW, DO NOT USE THE BELOW LINKS - DOWNLOAD THE CORRECT VERSION MANUALLY
