@@ -18,7 +18,7 @@ Beyond Home is the first planet mod to feature a fully functional binary star sy
 
 This planet pack is entirely about exploration and discovering vast, dynamic worlds that actually feel **alive**. Structures that indicate that an alien race has been here before you exist. The lore is extremely extensive. And yes, there are easter eggs!
 
-# Compatability
+# Compatibility
 ![Gateway](https://i.imgur.com/rrEMWtU.png)
 
 Beyond Home is compatible with (or provides support for) the following mods:
