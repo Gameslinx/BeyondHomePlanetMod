@@ -1,4 +1,6 @@
 # BeyondHome
+![BeyondHome](https://i.imgur.com/3yF9Eqo.png)
+
 Beyond Home (BH) is the final chapter in the story of Kerbalkind. It can be played independently of Before Kerbin and After Kerbin.
 
 Billions of years after Kerbol exploded, a few colony vessels survived and found a new system to inhabit. The *Tempus System*. The *Tempus System* is a binary star system, slightly larger than the *Kerbol System*. The two stars *Destiny* and *Fate* orbit each other, almost like a slow dance. These stars are the heart of this expansive system.
@@ -47,37 +49,20 @@ Please navigate to the following pages to download and install the version of ea
 * Scatterer (Atmospheres) - https://github.com/LGhassen/Scatterer/releases
 * Sigma Replacements (Skybox) - https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.0
 
-THESE INSTRUCTIONS ARE FOR KERBAL SPACE PROGRAM 1.6.1. FOR 1.6.0 AND BELOW, DO NOT USE THE BELOW LINKS - DOWNLOAD THE CORRECT VERSION MANUALLY
+# Hardware Requirements
+![Verna](https://i.imgur.com/zbloWO8.jpg)
 
-WHEN UPDATING BEYOND HOME, DELETE YOUR SETTINGS.CFG OTHERWISE YOU WILL MISS OUT ON THE PERFORMANCE OPTIMIZATION 
+Beyond Home is an incredibly well optimized mod that almost anyone will be able to run, but there are some bare minimum requirements that your system must meet for an enjoyable experience:
+* 6GB RAM (System memory)
+* 1-2GB VRAM (Graphics memory)
 
-1 - Drag and drop the "BeyondHome" folder to your "KerbalSpaceProgram/GameData" directory.
+# Licensing
 
-2 - Download and install Kopernicus - https://github.com/Kopernicus/Kopernicus/releases/download/release-1.7.3-1/Kopernicus-1.7.3-1.zip
+Beyond Home is licensed by **All Rights Reserved**.
 
-3 - Download and install Scatterer - https://github.com/LGhassen/Scatterer/releases/download/0.052/Scatterer0.052.zip
+# Contact
 
-4 - Download and install EVE - https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.4.2-2/EnvironmentalVisualEnhancements-1.4.2.2.zip
-
-5 - Download and install Kerbal Konstructs - https://github.com/GER-Space/Kerbal-Konstructs/releases/download/1.7.0.3/Kerbal-Konstructs-1.7.0.3.zip
-
-6 - Download and install Sigma Replacements - Skybox - https://github.com/Sigma88/Sigma-Replacements/releases/download/B_v0.4.0/Sigma-Replacements_SkyBox.v0.4.0.zip
-
-
-7 - Launch the game, go into settings, graphics settings, and turn terrain scatters ON and set their density to 100%
-
-  - THIS STEP IS CRUCIAL! IF YOU WANT TO SEE FLOATING ISLANDS AND COOL TERRAIN FEATURES, THIS MUST BE TURNED ON!
-  
-  - PERFORMANCE HIT IS MINIMAL AND HAS BEEN OPTIMIZED FOR ALL SYSTEMS
-  
-
-8 - In the same graphics settings page, turn the terrain quality up until you see "BeyondHome - LOW/MED/HIGH".
-
-  - The "HIGH" preset is RECOMMENDED, even for lower end systems, but if you really are struggling, turn it down.
-  
-  - This setting governs overall terrain quality and the range at which you render scatters.
-  
-  
-9 - Launch the game and make a new save! I hope you enjoy playing Beyond Home.
-
-BEYOND HOME IS LICENCED AS ALL RIGHTS RESERVED.
+KSP Forum - https://forum.kerbalspaceprogram.com/index.php?/topic/182708-173-beyond-home-120-after-kerbol-has-died-huge-update/
+Discord - Gameslinx#0544
+YouTube - http://youtube.com/gameslinx
+Email - tuveeathome@gmail.com (Only use for business enquiries)
