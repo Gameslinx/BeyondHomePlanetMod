@@ -62,7 +62,7 @@ Beyond Home is licensed by **All Rights Reserved**.
 
 # Contact
 
-KSP Forum - https://forum.kerbalspaceprogram.com/index.php?/topic/182708-173-beyond-home-120-after-kerbol-has-died-huge-update/
-Discord - Gameslinx#0544
-YouTube - http://youtube.com/gameslinx
-Email - tuveeathome@gmail.com (Only use for business enquiries)
+* KSP Forum - https://forum.kerbalspaceprogram.com/index.php?/topic/182708-173-beyond-home-120-after-kerbol-has-died-huge-update/
+* Discord - Gameslinx#0544
+* YouTube - http://youtube.com/gameslinx
+* Email - tuveeathome@gmail.com (Only use for business enquiries)
