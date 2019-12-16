@@ -9,6 +9,8 @@ The Kerbals have begun the colonization of two celestial bodies: *Rhode*, the ho
 
 Beyond Home is a planet mod for Kerbal Space Program that raises the bar by achieving many things once thought impossible. Each planet has custom surface features that the player can explore. These can range from simple rocks to vast structures and crashed starships. Each planet has had at least a week (or more) of time dedicated to making it perfect for the player to explore. Beyond Home may sound easy, but leaving the home planet is no longer the challenge. The journey is what counts - especially what lies at the end of it. Your focus will not be learning how to fly, it will be putting those skills to the test in wild, unique environments never seen before.
 
+**See the trailer here:** https://www.youtube.com/watch?v=K9llIkFVXAE
+
 # World-Firsts
 ![Cities](https://i.imgur.com/xGbmMPg.jpg)
 
