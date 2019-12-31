@@ -9,11 +9,6 @@
    "resources":{ 
       "homepage":"https://forum.kerbalspaceprogram.com/index.php?/topic/182708-*"
    },
-   "tags":[ 
-      "config",
-      "planets",
-      "planet-pack"
-   ],
    "ksp_version": "1.7.3",
    "depends":[ 
       { 
