@@ -1,0 +1,56 @@
+{ 
+   "spec_version":"v1.4",
+   "identifier":"BeyondHome",
+   "name":"Beyond Home",
+   "author":"Gameslinx",
+   "abstract":"A planet mod that takes place after the Kerbol system has died. Kerbals have escaped to another star system. Beyond Home adds a unique suite of over 28 planets each with their own high quality visuals.",
+   "$kref":"#/ckan/github/Gameslinx/BeyondHomePlanetMod",
+   "$vref":"#/ckan/ksp-avc",
+   "license":"restricted",
+   "resources":{ 
+      "homepage":"https://forum.kerbalspaceprogram.com/index.php?/topic/182708-*"
+   },
+   "tags":[ 
+      "config",
+      "planets",
+      "planet-pack"
+   ],
+   "ksp_version": "1.7.3",
+   "depends":[ 
+      { 
+         "name":"Kopernicus"
+      }
+   ],
+   "conflicts":[ 
+      { 
+         "name":"GPP"
+      },
+	  {
+		"name":"StockVisualEnhancements"
+	  }
+   ],
+   "recommends":[ 
+      { 
+         "name":"SigmaReplacements-SkyBox"
+      },
+      { 
+         "name":"EnvironmentalVisualEnhancements"
+      },
+      { 
+         "name":"Scatterer"
+      },
+      { 
+         "name":"Scatterer-config"
+      }
+   ],
+   "provides":[ 
+      "EnvironmentalVisualEnhancements-Config",
+      "Scatterer-sunflare"
+   ],
+   "install":[ 
+      { 
+         "find":"BeyondHome",
+         "install_to":"GameData"
+      }
+   ]
+}
