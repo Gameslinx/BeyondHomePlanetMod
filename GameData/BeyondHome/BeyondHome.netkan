@@ -43,10 +43,6 @@
          "name":"Scatterer-config"
       }
    ],
-   "provides":[ 
-      "EnvironmentalVisualEnhancements-Config",
-      "Scatterer-sunflare"
-   ],
    "install":[ 
       { 
          "find":"BeyondHome",
