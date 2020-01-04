@@ -32,11 +32,12 @@
       },
       { 
          "name":"Scatterer"
-      },
-      { 
-         "name":"Scatterer-config"
       }
    ],
+   "provides": [
+		"Scatterer-config",
+		"EnvironmentalVisualEnhancements-Config"
+	],
    "install":[ 
       { 
          "find":"BeyondHome",
