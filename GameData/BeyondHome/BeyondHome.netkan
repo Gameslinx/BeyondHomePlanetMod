@@ -36,6 +36,7 @@
    ],
    "provides": [
 		"Scatterer-config",
+		"Scatterer-sunflare",
 		"EnvironmentalVisualEnhancements-Config"
 	],
    "install":[ 
