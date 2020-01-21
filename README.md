@@ -30,11 +30,11 @@ Beyond Home is compatible with (or provides support for) the following mods:
 * Kerbal Konstructs
 * Astrogator (Use for transfer windows!)
 * KS3P
+* Kerbalism
 
-Beyond Home is **not** compatible with the following mods because it already provides a similar or better alternative to:
+Beyond Home is **not** compatible with the following mods:
 * External visual mods (SVE, AVP, SVT...)
 * External planet mods (JNSQ, GPP, GPO...)
-* Kerbalism
 
 # Installation
 ![GatewaySrf](https://i.imgur.com/ptqQo9u.png)
