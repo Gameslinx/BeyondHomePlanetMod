@@ -1,0 +1,322 @@
+Beyond Home 1.3 Changelog (Full)
+
+Planets:
+	- Rhode
+		- Textures:
+			- Much more detailed normal map
+			- Ocean-shelf colour map fading
+			- Fixed space centre colouring
+			- Matched space centre texture to new terrain textures
+			- Reduced render distance of scatters (for performance!!)
+			- Remade the surface texture
+			- Fixed blending with ocean and shores
+		
+		- Scatterer:
+			- Adjusted scatterer atmosphere fades
+			- Adjusted scatterer ocean colouring
+		
+		- EVE:
+			- Completely overhauled clouds
+			- New aurora texture
+			- Adjusted aurora colour
+			- Added variance to volumetric clouds
+		
+		- General:
+			- Adjusted ocean density very slightly
+			- Added biome "regions" for POIs
+			- Fixed atmosphere rim colour (non scatterer)
+		
+	- Anger
+		- Features:
+			- Full suite of terrain scatters
+			- Added monuments
+			
+		- Textures:
+			- Full retexture
+			- Fixed pixellation
+			- Fixed normalmap induced pixellation
+			- Increased normal map strength
+			- Improved terrain variance in general
+			- Better proportioned terrain
+			- Reworked colour map
+			- Reduced DDS artifacting on colour map
+			- Fixed biome names
+			- Redone biome map with appropriate weighting
+			
+		- General:
+			- Inclined orbit by 3 degrees
+			- Adjusted SMA to match Fury's new rings
+		
+	- Scindo
+		- Features:
+			- Added terrain scatters
+			- Added canyons
+			- Added craters
+			- Added volcano
+			
+		- Textures:
+			- Full retexture
+			- Improved detail on the normal map
+			- After community feedback, kept the style of the original colour map
+			- Different steep texture
+			- Remade biome map
+			
+		- Fixes:
+			- Fixed clipping into ground with landing gear
+			- Fixed texture seams
+			- Fixed steep texture tiling
+		
+	- Drohze
+		- Features:
+			- Added terrain scatters
+			- Increased frequency of canyons
+			- Hugely increased frequency of craters
+		
+		- Textures
+			- Full retexture
+			- More colourful colour map (less dres-like)
+			- Higher resolution normal map
+			- Reworked biome map
+		
+		- Fixes:
+			- Fixed steep texture tiling
+			- Fixed wheel friction on surface
+			
+	- Dynasty
+		- Features:
+			- Removed dead trees, they sucked
+		
+		- Textures:
+			- Slight improvement to terrain
+			- Slight colour map changes
+			- Increased frequency of ice
+			- Adjusted biome map to these changes
+			
+		- Fixes:
+			- Fixed blend between land and ice caps
+			- Fixed missing steep texture
+			
+	- Rock
+		- Features:
+			- Complete overhaul
+			- Improved crystal terrain scatters
+			- Improved frequency of terrain scatters
+			- Added additional terrain scatter
+			- Reduced frequency of smaller terrain scatters
+			- Improved PQSMod terrain for more rounded peaks
+		
+		- Textures:
+			- Full re-make due to community feedback
+			- Red-brown texture as now a metallic world
+			- Added craters with ejecta to the maps
+			- Reworked biome map
+			- Higher resolution normal map
+		
+		- Fixes:
+			- Fixed steep texture tiling
+			- Fixed region banding for crystal terrain scatters
+			
+	- Gateway
+		- Features:
+			- Brand new undersea and on-sea scatters
+		
+		- Textures:
+			- Full remaster of Gateway's maps
+			- Lowered normal map strength
+			- Brand new ring texture
+			- Moved rings to slightly different height
+			- Inclined rings slightly
+		
+		- EVE:
+			- Added 3 different cloud layers
+			- Clouds spin at different speeds
+			- Proper gas giant banding
+			- Added new aurora
+			- Adjusted aurora colour
+			
+		- Scatterer:
+			- Adjustments to atmosphere colour
+			- Adjustments to scatterer fade altitudes
+			
+	- Kohm
+		- Features:
+			- Added crashed ships
+			- Added crashed ship interiors
+			
+		- Textures:
+			- Adjusted blend between sea and shores
+			
+		- EVE:
+			- Improved layer volume
+		
+		- Fixes:
+			- Fixed off-ground terrain scatters
+			
+	- Ansia
+		- Features:
+			- Crystalline terrain scatters
+			
+	- Eidos
+		- Features:
+			- Ghostly, transparent terrain scatters
+			- Removed the garbage old terrain scatters
+			
+	- Fury
+		- Features:
+			- New ring texture
+			- Adjusted ring thiccness
+			- Adjusted ring width
+			- Added arched terrain scatters
+		
+		- Textures:
+			- Proper lava texture
+			- Improved normal map
+		
+		- Fixes:
+			- Lava-bergs now sit on lava properly
+			- Fixed blend between sea and land
+	
+	- Lua
+		- Features:
+			- Inceased terraformer spawn chance
+			- Recreated back Lua Base
+			- Reduced costs of Lua Base
+		
+		- Scatterer:
+			- Lowered atmosphere alpha
+			- Lowered atmosphere exposure
+			- Thinned atmosphere sky
+			- Fixed atmosphere rim when looking up
+			- Adjusted fade distances
+			- Re-enabled spherical mesh to fix clouds
+			
+	- Hydrus
+		- Features:
+			- Added low altitude fog
+			- Adjusted spawn rates for floating islands
+			- Fixed ocean colour
+			- Increased ocean density
+		
+		- EVE:
+			- New detail texture
+			- Increased detail texture tiling
+			
+		- Scatterer:
+			- Enabled spherical mesh to fix clouds
+			- Adjusted exposure and brightness but cannot remember what I did lol
+			
+	- Ash
+		- Features:
+			- Added mining outpost bases
+		
+		- Textures:
+			- Removed orange around lava, it was ugly
+			- Darkened terrain at low levels
+			- Improved lava texture
+	
+	- Vasto
+		- Features:
+			- Added light emitter terrain scatters
+			- Added SNOW! (EVE)
+		
+	- Verna
+		- Features:
+			- Added CITIES!
+			- Proper terrain scatters
+			- Low level fog
+			
+		- EVE:
+			- Improved cloud textures
+			- Added detail texture
+			- Reduced detail texture tiling
+			
+		- Fixes:
+			- Wheels clipping into terrain
+			
+	- Armstrong
+		- Features:
+			- Low level fog
+			- Added bone structures (Are they? People seem to like thinking they are)
+			- Reworked biome map
+			- Added flat areas, like Minmus
+		
+		- Textures:
+			- Slight heightmap adjustment for flat areas
+			
+	- Lond
+		- Features:
+			- Full rework
+		
+		- Textures:
+			- New biome map
+			- New colour map
+		
+		- Fixes:
+			- Fixed horrible PQS
+			- Fixed seams
+			
+	- Eterna
+		- Features:
+			- Added... snowmen?
+			
+	- Tribute
+		- Features:
+			- Mild remaster
+		
+		- Textures:
+			- More eroded surface
+			- Adjusted biome map accordingly
+			- Better lava texture
+		
+		- Fixes:
+			- Fixed EVE atmosphere glow
+			
+	- Tau
+		- EVE:
+			- Added new aurora texture
+			
+	
+Terrain:
+	- Added 50 terrain textures for use on scatters or planets
+	- Support for 1.8.x terrain shader
+	- Updated all planets for the 1.8.x terrain shader
+	- Remade textures accordingly for the 1.8.x shader (won't work on previous shaders? Dunno)
+	- Adjusted tiling for every planet
+	- Adjusted albedo for every planet
+	- Adjusted contrast for every planet
+	
+	The terrain portion of the changelog is tiny but it has the biggest changes on the planets. So, yeah
+	Well done for reading this far by the way, it's probably incredibly boring.
+	I spent the longest time on the terrain textures, bloody difficult they are!
+	
+Visuals:
+	- Re-enabled spherical mesh for some scatterer bodies since it would cause the clouds to light up in the dark
+	- Created a 16k cloud texture and two 8k textures for main clouds
+	- Created 3 gas giant textures for Gateway
+	- Created aurora textures for Gateway, Rhode, Tau, etc
+		
+Optimization:
+	- Removed unused scatters
+	- Removed unused textures
+	- Removed unused MTL files
+	- Reduced some biome map resolutions
+	- Enabled GPU Instancing for scatters, but unsure if it works or not. Better performance for low end CPUs
+	- Reduced layer volume for EVE clouds and increased the size instead
+	- Reduced some planets' scatter render distances
+	
+Other:
+	- Added installation checker. Source code on Github because SkWoD SAyS So
+	- Added DOE configs
+	- Added new Skybox
+	- Added 
+	
+Thank you for downloading Beyond Home, and for getting this far down the changelog.
+If you want to see upcoming trailers or teasers for future versions, be sure to follow my YouTube channel "Gameslinx".
+If you have any issues, contact me on the KSP forums as "Gameslinx", or Discord as "Gameslinx#0544".
+
+Enjoy Beyond Home!
+		
+		
+		
+		
+		
