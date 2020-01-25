@@ -18,6 +18,11 @@ Beyond Home is the first planet mod to feature a fully functional binary star sy
 
 This planet pack is entirely about exploration and discovering vast, dynamic worlds that actually feel **alive**. Structures that indicate that an alien race has been here before you exist. The lore is extremely extensive. And yes, there are easter eggs!
 
+# Target Audience
+![Image](https://cdn.discordapp.com/attachments/366325097507586049/670290955332747274/gateway_wallpaper_2.jpg)
+
+Beyond Home pushes the boundaries of Kerbal Space Program in almost every aspect. From realistic rings to crashed ships, cities, mining bases, terraformers and so much more, there is so much to explore. If you love to fly, love to explore, and love to discover, Beyond Home is for you.
+
 # Compatibility
 ![Gateway](https://i.imgur.com/rrEMWtU.png)
 
@@ -57,6 +62,12 @@ Please navigate to the following pages to download and install the version of ea
 Beyond Home is an incredibly well optimized mod that almost anyone will be able to run, but there are some bare minimum requirements that your system must meet for an enjoyable experience:
 * 6GB RAM (System memory)
 * 1-2GB VRAM (Graphics memory)
+
+# Author's Note
+
+I'm Gameslinx, and I just wanted to thank everyone who has ever downloaded Beyond Home. Even if you download and immediately delete, or never go back to stock, I am extremely thankful that you have shown interest in my work. The mod is developed by just me! It's been a huge journey and I've learned an awful lot about the game, how to make textures and how to create entire new worlds. It's been a wild ride of over three years and I am extremely happy to present the culmination of 3 years of learning in one downloadable package.
+
+I never ask for donations, but if you would like to provide any support for my work, I do have a donate link on the forum page.
 
 # Licensing
 
