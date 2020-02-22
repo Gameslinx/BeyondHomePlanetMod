@@ -1,5 +1,5 @@
 # Beyond Home
-![BeyondHome](https://i.imgur.com/3yF9Eqo.png)
+![BeyondHome](https://i.imgur.com/IBkqSSZ.png)
 
 Beyond Home (BH) is the final chapter in the story of Kerbalkind. It can be played independently of Before Kerbin and After Kerbin.
 
