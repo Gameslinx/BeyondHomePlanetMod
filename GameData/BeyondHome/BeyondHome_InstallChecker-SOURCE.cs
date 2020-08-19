@@ -3,12 +3,15 @@
 //As with KSP rules apparently I have to include my source code here
 //Screw you Squad/T2, you don't even let us decompile your DLLs AND you have a history of potentially MALICIOUS code
 //I can do whatever I damn well please. But, here's my source code :DDDDDDDD
+//Lmao, it's too funny asking for transparency when you won't give it yourself: FOR[T2/Skwod]
 
 using System;
 using System.IO;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
+using Kopernicus;
+using Kopernicus.Constants;
 
 namespace BeyondHomeInstallationChecker
 {
@@ -70,12 +73,12 @@ namespace BeyondHomeInstallationChecker
                 DoLogThingsForMe("  - MFI is not installed");
                 errorcount++;
             }
-            if (System.IO.File.Exists(path + "Sigma/Replacements/SkyBox/Plugins/SigmaReplacementsSkyBox.dll") == true)
-            {
-                errors = errors + "<color=#FF7200>WARNING: Sigma Replacements: Skybox is not installed!</color>\n";   //SR:S is not on CKAN, so this is the only way to get the inferior people who actually use CKAN to install the damn dependencies
-                DoLogThingsForMe("  - SR:S is not installed");
-                errorcount++;
-            }
+//            if (System.IO.File.Exists(path + "Sigma/Replacements/SkyBox/Plugins/SigmaReplacementsSkyBox.dll") == true)
+//            {
+//                errors = errors + "<color=#FF7200>WARNING: Sigma Replacements: Skybox is not installed!</color>\n";   //SR:S is not on CKAN, so this is the only way to get the inferior people who actually use CKAN to install the damn dependencies
+//                DoLogThingsForMe("  - SR:S is not installed");
+//                errorcount++;
+//            }
             if (System.IO.File.Exists(path + "AstronomersVisualPack/AstronomersVisualPack.version") == true)
             {
                 errors = errors + "<color=#FF7200>WARNING: Astronomer's Visual Pack is not supported! Beyond Home adds its own visuals</color>\n";
@@ -126,11 +129,12 @@ namespace BeyondHomeInstallationChecker
             if (errorcount > 0)
             {
                 DoLogThingsForMe("Exception: There were the following errors in the Beyond Home installation:");
+                DoLogThingsForMe(errors);
             }
             try
             {
-                string[] validation = InstallCheckerGetKop();
-                if (validation[0] != validation[1])
+                bool validation = InstallCheckerGetKop();
+                if (validation is false)
                 {
                     ScreenMessages.PostScreenMessage("\n\n\n\n\n\n\n\n\n<color=#FF3F00>Your Kopernicus version does not match the KSP version!</color>");
                     DoLogThingsForMe("  - Kopernicus and KSP version mismatch!");
@@ -140,44 +144,29 @@ namespace BeyondHomeInstallationChecker
             {
                 DoLogThingsForMe("Couldn't find either Kopernicus or the KSP readme.txt");
                 Debug.Log(e.ToString());
+                DoLogThingsForMe(e.ToString());
                 ScreenMessages.PostScreenMessage("\n\n\n\n\n\n\n\n\nUnable to detect KSP / Kopernicus version");
             }
-            DoLogThingsForMe("Shutting down InstallationChecker, its task is done! “Not all those who wander are lost...”");
+            DoLogThingsForMe("Shutting down InstallationChecker, its task is done! ï¿½Not all those who wander are lost...ï¿½");
             Debug.Log("");
             Debug.Log("");
             Debug.Log("----------------------------------------------------------------------------------");
         }
-        public string[] InstallCheckerGetKop()
+        public bool InstallCheckerGetKop()
         {
-            string output = "";
             string KSPpath = (Application.dataPath.Remove(Application.dataPath.Length - 12, 12) + "readme.txt");    //Locate KSP directory readme
             string KOPpath = (Application.dataPath.Remove(Application.dataPath.Length - 12, 12) + "GameData/Kopernicus/Plugins/Kopernicus.version");    //Locate kopernicus readme if it exists
             DoLogThingsForMe("Detected KSP validation path as " + KSPpath);
             DoLogThingsForMe("Detected Kopernicus validation path as " + KOPpath);
-            string KSPreadme = File.ReadAllLines(KSPpath).Skip(14).Take(1).First();
-            string major = File.ReadLines(KOPpath).Skip(7).Take(1).First();
-            string minor = File.ReadLines(KOPpath).Skip(8).Take(1).First();
-            string patch = File.ReadLines(KOPpath).Skip(9).Take(1).First();
-            string temp = major + "\n" + minor + "\n" + patch;
-            int counter = 0;
-            foreach (char c in temp)                                                
+            bool x = CompatibilityChecker.IsCompatible();
+            if (x is true)
             {
-                if (Char.IsDigit(c) == true)
-                {
-                    output += c;
-                    counter++;
-                    if (counter < 3)
-                    {
-                        output += '.';
-                    }
-                }
+                return true;
             }
-            string[] outputarray = new string[2]; //Kop version is index 0, ksp version is index 1
-            outputarray[0] = "Version " + output;
-            outputarray[1] = KSPreadme;
-            DoLogThingsForMe("Line of Kopernicus readme: " + outputarray[0]);
-            DoLogThingsForMe("Line of KSP readme: " + outputarray[1]);
-            return outputarray;
+            else
+            {
+                return false;
+            }
         }
         public void BeyondHomePostMessage(string input)
         {
