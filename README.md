@@ -63,6 +63,17 @@ Beyond Home is an incredibly well optimized mod that almost anyone will be able 
 * 6GB RAM (System memory)
 * 1-2GB VRAM (Graphics memory)
 
+# Why Does Beyond Home Run So Well?
+![weesnaw](https://i.imgur.com/Qy6ZEYi.jpg)
+
+Beyond Home runs so well because it utilises the following methods to improve performance across the board:
+* DDS Textures that are only loaded once, and not uncompressed each time they're used
+* OnDemand loading with Kopernicus - only the visible planets' textures are loaded
+* Scatter render distance - Reduces the amount of surface features on the screen
+* Low RAM impact - Sensible texture sizes and OnDemand loading minimises the amount of RAM used
+* No cloud shadows - EVE cloud shaders require the scene to be rendered multiple times, dragging performance down. I don't use these.
+* Mipmaps - DDS mipmaps ease the load on your GPU when anti-aliasing a scene because lower and lower resolution textures are also stored in the main texture
+
 # Author's Note
 
 I'm Gameslinx, and I just wanted to thank everyone who has ever downloaded Beyond Home. Even if you download and immediately delete, or never go back to stock, I am extremely thankful that you have shown interest in my work. The mod is developed by just me! It's been a huge journey and I've learned an awful lot about the game, how to make textures and how to create entire new worlds. It's been a wild ride of over three years and I am extremely happy to present the culmination of 3 years of learning in one downloadable package.
