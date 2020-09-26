@@ -48,7 +48,8 @@ Please navigate to the following pages to download and install the version of ea
 
 **Required To Function**
 * Beyond Home - https://github.com/Gameslinx/BeyondHomePlanetMod/releases
-* Kopernicus - https://github.com/Kopernicus/Kopernicus/releases/
+* Kopernicus - https://github.com/Kopernicus/Kopernicus/releases
+* Parallax - https://github.com/Gameslinx/Tessellation/releases
 * Upon starting the game **YOU MUST** go to settings and **enable** terrain scatters and turn the density up to **100%** for key features of the mod to work!
 
 **Recommended**
