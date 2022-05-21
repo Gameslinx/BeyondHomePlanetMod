@@ -1,0 +1,19 @@
+//////////////////////////////////////////////////////////////////////
+//
+//	GasGiantClouds.dds
+//
+//	Janus1.dds 		-> 	GasGiantClouds.dds	R
+//	Janus2.dds 		-> 	GasGiantClouds.dds 	G
+//	Gateway2.dds 	-> 	GasGiantClouds.dds	B
+//	Gateway1.dds 	-> 	GasGiantClouds.dds	A
+//
+//////////////////////////////////////////////////////////////////////
+//
+//	TerrestrialClouds.dds
+//
+//	Rhode1.dds 		-> 	TerrestrialClouds.dds	R
+//	Tau1.dds 		-> 	TerrestrialClouds.dds 	G
+//	Kohm1.dds 		-> 	TerrestrialClouds.dds	B
+//	Kohm2.dds 		-> 	TerrestrialClouds.dds	A
+//	
+/////////////////////////////////////////////////////////////////////
